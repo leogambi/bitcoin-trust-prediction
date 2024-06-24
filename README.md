@@ -4,6 +4,7 @@ The data I am using comes from the Bitcoin Alpha trust weighted signed network d
 
 The main goal of the project is to extract meaningful features from the network using data mining theories.
 ## Citations: 
+```bibtex
 @inproceedings{kumar2016edge,
   title={Edge weight prediction in weighted signed networks},
   author={Kumar, Srijan and Spezzano, Francesca and Subrahmanian, VS and Faloutsos, Christos},
@@ -12,7 +13,9 @@ The main goal of the project is to extract meaningful features from the network 
   year={2016},
   organization={IEEE}
 }
+```
 
+```bibtex
 @inproceedings{kumar2018rev2,
   title={Rev2: Fraudulent user prediction in rating platforms},
   author={Kumar, Srijan and Hooi, Bryan and Makhija, Disha and Kumar, Mohit and Faloutsos, Christos and Subrahmanian, VS},
@@ -21,3 +24,4 @@ The main goal of the project is to extract meaningful features from the network 
   year={2018},
   organization={ACM}
 }
+```
